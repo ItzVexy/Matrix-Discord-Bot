@@ -1,0 +1,13 @@
+{
+  "name": "LilDexter",
+  "description": "",
+  "version": "1.0.0",
+  "main": "dexterbot.js",
+  "scripts": {
+    "start": "node dexterbot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
